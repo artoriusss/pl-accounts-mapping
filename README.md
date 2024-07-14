@@ -37,7 +37,7 @@ In our case, the algorithm managed to map to Master categories **185 out of of 2
 To run the project, start with cloning this repo:
 
 ```
-git clone 
+git clone https://github.com/artoriusss/pl-accounts-mapping.git
 ```
 
 Then, create a virtual env and install the requirements:
