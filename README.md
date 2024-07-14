@@ -1,6 +1,6 @@
 # ML-based mapping algorithm
 
-To view a more detailed discussion and mapping results, please refer to [this](notebooks/1.Pipeline.pdf) pdf version of experimental Jupyter notebook. 
+To view a more detailed discussion and mapping results, please refer to [PDF](notebooks/1.Pipeline.pdf) version of experimental Jupyter notebook or a [regular](notebooks/1.Pipeline.ipynb) notebook. 
 
 ---
 
