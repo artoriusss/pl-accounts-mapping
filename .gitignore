@@ -1,0 +1,9 @@
+.venv
+.new_venv
+
+data/*
+!data/.gitkeep
+.env
+
+.DS_Store
+__pycache__
