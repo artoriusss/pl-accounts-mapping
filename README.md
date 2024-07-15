@@ -4,7 +4,7 @@ To view a more detailed discussion and mapping results, please refer to [PDF](no
 
 ---
 
-Relational tabular datasets often come from different sources and in different forms. To collect and aggregate such data, it is neccessary to map this data it into a single form. 
+Relational tabular datasets often come from different sources and in different forms. To collect and aggregate such data, it is neccessary to map this data into a single form. 
 
 However, this process usually requires a great deal of manual effort, since a machine cannot simply understand that two entities like `R&D expenses:R&D team salary tax expenses` and `R&D team salary` essentially represent the same thing.
 
